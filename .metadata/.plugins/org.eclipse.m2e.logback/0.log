@@ -5,3 +5,9 @@
 2023-02-26 17:16:13,459 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCore/src/main/resources
 2023-02-26 17:16:13,462 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCore/src/test/java
 2023-02-26 17:16:14,258 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-02-26 17:20:22,496 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:SpringCore_1.0:0.0.1-SNAPSHOT @ C:\Users\prata\Documents\GitHub\Spring_Core\SpringCore_1.0\pom.xml.
+2023-02-26 17:20:24,009 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCore_1.0/src/main/java
+2023-02-26 17:20:24,010 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCore_1.0/src/main/resources
+2023-02-26 17:20:24,030 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCore_1.0/src/main/resources
+2023-02-26 17:20:24,049 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCore_1.0/src/test/java
+2023-02-26 17:20:24,945 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
