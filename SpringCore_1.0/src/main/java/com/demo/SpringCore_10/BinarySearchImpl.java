@@ -9,10 +9,16 @@ public class BinarySearchImpl {
 	@Autowired
 	private SortAlgorithm sortAlgorithm;
 	
-	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
-		super();
-		this.sortAlgorithm = sortAlgorithm;
-	}
+	//This constructor will used for constructor based injection
+//	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
+//		super();
+//		this.sortAlgorithm = sortAlgorithm;
+//	}
+	
+	// This will used for setter based injection
+//	public void setSortAlgorithm(SortAlgorithm algorithm) {
+//		this.sortAlgorithm = algorithm;
+//	}
 
 	public int binarySearch(int[] arr, int number) {
 		// Sorting on array
